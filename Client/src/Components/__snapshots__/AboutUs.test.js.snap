@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly rendering the About page 1`] = `
+<div>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        <div
+          className="text-center card"
+        >
+          <header>
+            <aside
+              style={
+                Object {
+                  "float": "left",
+                }
+              }
+            >
+              <img
+                alt="Product inventory"
+                src="logo11.jpg"
+              />
+            </aside>
+            <h1>
+              <b>
+                PRODUCT INVENTORY
+              </b>
+            </h1>
+          </header>
+          <hr />
+          <p>
+            Products Inventory is an application made using React JS.
+            <br />
+            It uses Bootstrap for a responsive User Interface. You can start off by viewing our products in our inventory, search there to find the product you're looking for. There's a bar chart which shows our top viewed products for a better User Experience. There's also an option to customize the fields you wish to see in the products list page. This app will open up more features for you, once you signin into our app. For that you'll need to register into our app first, by providing a few basic details. Once successfully registered, you can sign in when you're authenticated. When you become an authenticated user, you can do a lot of things, like, viewing product details, adding products, deleting or modifying them. You also have the option of deleting multiple products in one go. You can also view about yourself by clicking on your name, on the navigation bar.
+          </p>
+        </div>
+      </div>
+      <div
+        className="text-center col-md-auto"
+      >
+        <div
+          className="card border-info"
+          style={
+            Object {
+              "width": "18rem",
+            }
+          }
+        >
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Welcome!
+            </div>
+            <p
+              className="card-text"
+            >
+              Already a User?
+            </p>
+            <a
+              className="btn btn-primary"
+              disabled={false}
+              href="/signIn"
+              onClick={[Function]}
+              onKeyDown={[Function]}
+              role="button"
+              tabIndex={0}
+            >
+              Sign in
+            </a>
+            <p
+              className="card-text"
+            >
+              New User?
+            </p>
+            <a
+              className="btn btn-primary"
+              disabled={false}
+              href="/register"
+              onClick={[Function]}
+              onKeyDown={[Function]}
+              role="button"
+              tabIndex={0}
+            >
+              Register
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <nav
+      className="mt-5  navbar navbar-expand navbar-light bg-light"
+    >
+      <b>
+        A Project made using React JS by AKHILSAI REDDY 
+      </b>
+    </nav>
+  </footer>
+</div>
+`;

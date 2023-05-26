@@ -1,0 +1,467 @@
+{
+  "users": [
+    {
+      "FirstName": "Sai",
+      "LastName": "Reddy",
+      "email": "akhil@wipro.com",
+      "PhoneNumber": 9988776655,
+      "Password": "Akhilsai123",
+      "Location": "bengalore",
+      "id": 1669029117492
+    },
+    {
+      "FirstName": "Bunny",
+      "LastName": "bunny",
+      "email": "bunny@gmail.com",
+      "PhoneNumber": 9988776655,
+      "Password": "Bunnybunny",
+      "Location": "Adilabad",
+      "id": 1669112960186
+    },
+    {
+      "FirstName": "Akhilsai",
+      "LastName": "Reddy",
+      "email": "sai@sai.com",
+      "PhoneNumber": 1122334455,
+      "Password": "Akhilsai@455",
+      "Location": "Adilabad",
+      "id": "444Jd3Q2ihNrXznvvDtWj1"
+    },
+    {
+      "FirstName": "Mahi",
+      "LastName": "M",
+      "email": "mahi@m.com",
+      "PhoneNumber": 9014471757,
+      "Password": "Mahi123",
+      "Location": "Hyd",
+      "id": "Wqz457GxPQIR5TCdigNMz1"
+    }
+  ],
+  "Products": [
+    {
+      "id": 2,
+      "product_name": "REDMI Note 9",
+      "quantity": 2,
+      "price": 21399,
+      "description": "REDMI Note 9 4GB RAM 64GB ROM 4000mah Battery HD display "
+    },
+    {
+      "id": "NXTc6dpwANOIqqJT0Hoik",
+      "product_name": "Nokia 5G",
+      "quantity": 4,
+      "price": 56789,
+      "description": "Nokia 4GB RAM 64GB ROM 4000mah Battery HD display"
+    },
+    {
+      "id": "lBF4c8BDY4NqspJMVTiqK",
+      "product_name": "REDMI note7 pro",
+      "quantity": 3,
+      "price": 23499,
+      "description": "Redmi note 7pro is made by the company REDMI and made in china, 8 GB RAM 128 GB ROM"
+    },
+    {
+      "id": "68ZzlKpRQ9o46Zy_DPPtQ",
+      "product_name": "moto g5",
+      "quantity": 3,
+      "price": 30001,
+      "description": "MOTO G5 BLACK COLOR MOTAROLA COMPANY 4GB RAM 64GB ROM 5000MAH BATTERY"
+    },
+    {
+      "id": "QA_DMNM6rUOhqBEK1kGFV",
+      "product_name": "one plus 7t",
+      "quantity": 1,
+      "price": 45799,
+      "description": "ONE PLUS, ONE PLUS 7T 6GB RAM 64GB ROM BLUE COLOUR 4000 MAH BATTERY"
+    },
+    {
+      "id": "V-HvwITn2nkc14a0rBmo_",
+      "product_name": "Pen",
+      "quantity": 2,
+      "price": 1234,
+      "description": "jjdjd"
+    },
+    {
+      "id": "3jBQ-LVv4-0yCJebHfgwL",
+      "product_name": "Bata",
+      "quantity": 2,
+      "price": 450,
+      "description": "Bata nice cheppal"
+    },
+    {
+      "id": "jAdO9fXm49QssZJ1IGyRY",
+      "product_name": "Defy ",
+      "quantity": 1,
+      "price": 1399,
+      "description": "Defy gravity-Z earpods with 50 hours play time "
+    },
+    {
+      "id": "i3EE7c-fmLKffaEfUDlCz",
+      "product_name": "Watch",
+      "quantity": 2,
+      "price": 547,
+      "description": "Wristwatch for men with diagonal display"
+    }
+  ],
+  "Topviewed": [
+    {
+      "id": 1,
+      "product_name": "Nokia 5G"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "id": 2,
+      "product_name": "REDMI note7 pro"
+    },
+    {
+      "product_name": "moto g5",
+      "id": 3
+    },
+    {
+      "product_name": "moto g5",
+      "id": 4
+    },
+    {
+      "product_name": "moto g5",
+      "id": 5
+    },
+    {
+      "product_name": "moto g5",
+      "id": 6
+    },
+    {
+      "product_name": "moto g5",
+      "id": 7
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 8
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 9
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 10
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 11
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 12
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 13
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 14
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 15
+    },
+    {
+      "product_name": "one plus 7t",
+      "id": 16
+    },
+    {
+      "product_name": "Pen",
+      "id": 17
+    },
+    {
+      "product_name": "Pen",
+      "id": 18
+    },
+    {
+      "product_name": "Pen",
+      "id": 19
+    },
+    {
+      "product_name": "moto g5",
+      "id": 20
+    },
+    {
+      "product_name": "one plus 7t",
+      "id": 21
+    },
+    {
+      "product_name": "moto g5",
+      "id": 22
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 23
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 24
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 25
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 26
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 27
+    },
+    {
+      "product_name": "Pen",
+      "id": 28
+    },
+    {
+      "product_name": "moto g5",
+      "id": 29
+    },
+    {
+      "product_name": "Pen",
+      "id": 30
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 31
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 32
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 33
+    },
+    {
+      "product_name": "Pen",
+      "id": 34
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 36
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 37
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 38
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 39
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 40
+    },
+    {
+      "product_name": "one plus 7t",
+      "id": 41
+    },
+    {
+      "product_name": "one plus 7t",
+      "id": 42
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 43
+    },
+    {
+      "product_name": "Pen",
+      "id": 44
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 45
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 47
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 48
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 49
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 50
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 51
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 52
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 53
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 54
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 55
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 56
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 57
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 58
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 59
+    },
+    {
+      "product_name": "REDMI note7 pro",
+      "id": 60
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 61
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 62
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 63
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 64
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 65
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 66
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 67
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 68
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 12
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 13
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 14
+    },
+    {
+      "product_name": "Nokia 5G",
+      "id": 15
+    },
+    {
+      "product_name": "one plus 7t",
+      "id": 16
+    },
+    {
+      "product_name": "Pen",
+      "id": 17
+    },
+    {
+      "product_name": "Pen",
+      "id": 18
+    },
+    {
+      "product_name": "Pen",
+      "id": 19
+    },
+    {
+      "product_name": "moto g5",
+      "id": 20
+    },
+    {
+      "product_name": "one plus 7t",
+      "id": 21
+    },
+    {
+      "product_name": "moto g5",
+      "id": 22
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 47
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 48
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 49
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 50
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 69
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 70
+    },
+    {
+      "product_name": "REDMI Note 9",
+      "id": 71
+    }
+  ]
+}
